@@ -1,14 +1,19 @@
-.test {
-  height: 100px;
+body {
+  margin: 0px;
 }
-form {
-  margin: 50px;
-  padding: 5px;
+.test {
+  width: 30%;
+  height: 600px;
   display: inline-block;
 }
- form input{
+.suggestioninput {
+  margin: 5px auto;
+  padding: 15px 15px 15px 10px;
+}
+ .suggestioninput input{
    border: none;
    background: transparent;
    border-bottom: 1px solid black;
+   padding: 0 100px;
    outline: none;
  }
