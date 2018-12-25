@@ -1,0 +1,14 @@
+.test {
+  height: 100px;
+}
+form {
+  margin: 50px;
+  padding: 5px;
+  display: inline-block;
+}
+ form input{
+   border: none;
+   background: transparent;
+   border-bottom: 1px solid black;
+   outline: none;
+ }
