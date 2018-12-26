@@ -17,3 +17,14 @@ body {
    padding: 0 100px;
    outline: none;
  }
+
+.picbox {
+  overflow-x: scroll;
+  white-space: nowrap; 
+}
+.picboxinner {
+  margin: 10px;
+  padding: 20px;
+  background: black;
+  display: inline-block;
+}
