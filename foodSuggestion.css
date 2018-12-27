@@ -1,25 +1,33 @@
 body {
-  margin: 0px;
+  margin: 20px 0;
+  height: 700px;
+  background: grey;
 }
+
 .test {
-  width: 30%;
-  height: 600px;
+  width: 24%;
+  height:690px;
+  margin-left: 3ch;
+  background: white;
   display: inline-block;
 }
+
 .suggestioninput {
   margin: 5px auto;
   padding: 15px 15px 15px 10px;
 }
+
  .suggestioninput input{
    border: none;
    background: transparent;
    border-bottom: 1px solid black;
-   padding: 0 100px;
+   padding: 0 87px;
    outline: none;
  }
+
  .boxscroll {
    height: auto;
-   width:500px;
+   max-width: 345px;
    white-space: nowrap;
    overflow-x: scroll;
  }
@@ -35,7 +43,7 @@ body {
    border: none;
    border-bottom: 1px solid black;
    background: transparent;
-   margin: 0px 160px 0px 10px;
+   margin: 0 12px;
  }
 
  .bordertext{
@@ -50,6 +58,7 @@ body {
 
  .bordertext i {
   font-weight: 600;
-  padding-right: 80px;
  }
+
+
 
