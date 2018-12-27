@@ -31,3 +31,25 @@ body {
   display: inline-block;
  }
 
+ .borderline {
+   border: none;
+   border-bottom: 1px solid black;
+   background: transparent;
+   margin: 0px 160px 0px 10px;
+ }
+
+ .bordertext{
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .bordertext span{
+   font-weight: bold;
+ }
+
+ .bordertext i {
+  font-weight: 600;
+  padding-right: 80px;
+ }
+
