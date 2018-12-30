@@ -1,13 +1,12 @@
 body {
-  margin: 20px 0;
   height: 700px;
   background: grey;
 }
 
 .test {
-  width: 24%;
+  width: 25.5%;
   height:690px;
-  margin-left: 3ch;
+  margin: 20px 5px;
   background: white;
   display: inline-block;
 }
@@ -21,7 +20,7 @@ body {
    border: none;
    background: transparent;
    border-bottom: 1px solid black;
-   padding: 0 87px;
+   padding-right: 175px;
    outline: none;
  }
 
